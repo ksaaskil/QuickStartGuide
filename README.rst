@@ -11,6 +11,5 @@ The guide itself is in the `<QuickStart.rst>`_ file.
 Very Quick Start
 ================
 
-    > pip install robotframework
-
-    > robot --log log.html --name TestLogin tests.robot
+    pip install robotframework
+    robot --log log.html --name TestLogin tests.robot
