@@ -7,3 +7,10 @@ through it and look at the examples, but you can also use the guide as
 an executable demo.
 
 The guide itself is in the `<QuickStart.rst>`_ file.
+
+Very Quick Start
+================
+
+    > pip install robotframework
+
+    > robot --log log.html --name TestLogin tests.robot
