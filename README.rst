@@ -12,4 +12,5 @@ Very Quick Start
 ================
 
     pip install robotframework
+
     robot --log log.html --name TestLogin tests.robot
